@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #cd9a9a;
+  }
+  
+  .timer {
+    text-align: center;
+  }
+  
+  .time-display {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    display: flex;
+    gap: 10px;
+  }
+  
